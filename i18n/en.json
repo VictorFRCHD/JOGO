@@ -1,0 +1,23 @@
+{
+  "login": "Login",
+  "signup": "Sign Up",
+  "switch_to_signup": "No account? Sign up",
+  "switch_to_login": "Already have an account? Login",
+  "dashboard": "Matches",
+  "map": "Map",
+  "leagues": "Leagues",
+  "profile": "Profile",
+  "create_match": "Create Match",
+  "match_title": "Title",
+  "match_place": "Place",
+  "match_when": "When",
+  "create_league": "Create League",
+  "name": "Name",
+  "email": "Email",
+  "save": "Save",
+  "logout": "Logout",
+  "reserve": "Reserve",
+  "chat": "Chat",
+  "send": "Send",
+  "language": "Language"
+}
